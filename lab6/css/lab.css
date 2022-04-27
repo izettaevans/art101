@@ -1,0 +1,24 @@
+#scooter {
+    width: 500px;
+    height: auto;
+}
+
+.sections{
+  border: 5px outset orange;
+  background-color: pink;
+  margin: 10px;
+}
+
+.heading{
+  font-family: sans-serif;
+  color: black;
+  padding-left: 10px;
+}
+
+li{
+  font-family: sans-serif;
+}
+
+p{
+  font-family: sans-serif;
+}
