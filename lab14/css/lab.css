@@ -1,0 +1,40 @@
+.sections{
+  border: 5px outset pink;
+  background-color: green;
+  margin: 10px;
+}
+
+.heading{
+  font-family: sans-serif;
+  color: black;
+  padding-left: 10px;
+}
+
+li{
+  font-family: sans-serif;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+.special {
+  border: 5px outset black;
+  background-color: magenta;
+  margin: 10px;
+  padding: 10px
+}
+
+#screenshots {
+    width: 500px;
+    height: auto;
+}
+
+#output {
+  padding: 20px
+}
+
+#output3 {
+  padding: 50px;
+  background-color: purple;
+}
